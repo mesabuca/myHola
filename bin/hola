@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'myHola'
+puts MyHola.hi(ARGV[0])
